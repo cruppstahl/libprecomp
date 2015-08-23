@@ -1,0 +1,11 @@
+o tests for prelo.c -> testlo.c
+o prehi.c and prehi.h
+o create multiple versions of prelo - for 8bit offsets, 16bit offsets and
+    32bit offsets
+    -> dispatch in prehi.c
+o improve the makefile (debug, non-debug etc)
+o visual studio project file
+o readme & documentation
+o SIMD string matching?
+o prelo: use binary search instead of linear search?
+o combine with shoco encoding?

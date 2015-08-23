@@ -8,4 +8,5 @@ o visual studio project file
 o readme & documentation
 o SIMD string matching?
 o prelo: use binary search instead of linear search?
-o combine with shoco encoding?
+o combine with shoco encoding? should work well for prefix AND suffix
+    http://ed-von-schleck.github.io/shoco/
